@@ -42,7 +42,7 @@ robust intrusion detection with minimal computational and power overhead.
 ### Images
 
 <p align="center">
-  <img src="/cover.png" width="800"><br/>
+  <img src="/cover.jpg" width="800"><br/>
   <i>MYOSA-based Forest Sentinel hardware setup</i>
 </p>
 
@@ -156,6 +156,7 @@ MIT License
 ## Contribution Notes
 
 Contributions and improvements are welcome.
+
 
 
 

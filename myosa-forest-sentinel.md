@@ -91,7 +91,7 @@ detected.
 
 ### 3. Artificial Light–Triggered Intrusion Confirmation
 The presence of vibration and proximity activity places the system in a heightened monitoring state. An intrusion event
-is confirmed only when a sudden increase in light intensity—such as from a flashlight or torch—is detected. This final
+is confirmed only when a sudden increase in light intensity, such as from a flashlight or torch is detected. This final
 event acts as a decisive trigger, minimizing false alarms caused by animals or natural disturbances.
 
 ### 4. Alert Generation and Multi-Modal Notification
@@ -121,9 +121,9 @@ platformio run --target upload
 - Buzzer
 
 ### Firmware
-- C / C++ (Arduino framework)
+- C++ (Arduino framework)
 - PlatformIO development environment
-- Embedded sensor libraries for MYOSA-compatible devices
+- Embedded sensor libraries compatible with the MYOSA platform
 
 ### Interface
 - Web-based dashboard (HTML)
@@ -156,6 +156,7 @@ MIT License
 ## Contribution Notes
 
 Contributions and improvements are welcome.
+
 
 
 

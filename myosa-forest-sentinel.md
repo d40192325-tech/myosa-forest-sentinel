@@ -1,6 +1,6 @@
 ---
 publishDate: 2025-12-26
-title: Forest Sentinel- Aware but not always Awake
+title: Forest Sentinel - Aware but not always Awake
 excerpt: A low-power multisensor intrusion detection system for forest and wildlife protection.
 image: cover.png
 tags:
@@ -156,6 +156,7 @@ MIT License
 ## Contribution Notes
 
 Contributions and improvements are welcome.
+
 
 
 
